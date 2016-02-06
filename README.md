@@ -1,22 +1,21 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Simple calorie conversion app. Supports conversion to and from and combination
+of calories to exercise and vice versa
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Shin Yoon ([shinmyung0@berkeley.edu](mailto:shinmyung0@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Crunch Time Interaction Video] (https://www.youtube.com/watch?v=Wz1W-t-B03k)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/3.png" height="400" alt="Screenshot"/>
+<img src="screenshots/3.png" height="400" alt="Screenshot"/>
 
-## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
